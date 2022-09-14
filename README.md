@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hola! Soy Renato Uzcategui🙋
+Me gusta el desarrollo web y me encanto aprender de este inmenso mundo de la programacion. 
+
+## ¿Qué me destaca? 
+Soy una persona con unas amplias ganas y capacidad de aprendizaje , aplicable en mi día a día y capaz de adaptarme a los distintos desafíos que se presenten en el camino. Siempre dispuesto a ayudar y aprender de quienes me rodean.
+
