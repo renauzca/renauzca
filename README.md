@@ -20,6 +20,6 @@ Me gusta el desarrollo web y me encanto aprender de este inmenso mundo de la pro
 ## ¿Qué me destaca? 
 Soy una persona con unas amplias ganas y capacidad de aprendizaje , aplicable en mi día a día y capaz de adaptarme a los distintos desafíos que se presenten en el camino. Siempre dispuesto a ayudar y aprender de quienes me rodean.
 
-## tecnologías
+## Tecnologías
 | JavaScrip | React | Redux | React-Redux | Express | PostgresSQL | Sequalize | HTML | CSS | 
 
