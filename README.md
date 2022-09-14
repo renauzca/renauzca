@@ -23,3 +23,7 @@ Soy una persona con unas amplias ganas y capacidad de aprendizaje , aplicable en
 ## Tecnologías
 | JavaScrip | React | Redux | React-Redux | Express | PostgresSQL | Sequalize | HTML | CSS | 
 
+## Contactame por:
+
+📫 renauzca2103@gmail.com
+📫+54 9 1124758316
